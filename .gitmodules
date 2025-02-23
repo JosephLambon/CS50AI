@@ -1,0 +1,27 @@
+[submodule "Minesweeper"]
+	path = Minesweeper
+	url = https://github.com/JosephLambon/Minesweeper.git
+[submodule "PageRank"]
+	path = PageRank
+	url = https://github.com/JosephLambon/PageRank.git
+[submodule "Heredity"]
+	path = Heredity
+	url = https://github.com/JosephLambon/Heredity.git
+[submodule "Crossword"]
+	path = Crossword
+	url = https://github.com/JosephLambon/Crossword.git
+[submodule "Nim"]
+	path = Nim
+	url = https://github.com/JosephLambon/Nim.git
+[submodule "Traffic"]
+	path = Traffic
+	url = https://github.com/JosephLambon/Traffic.git
+[submodule "Shopping"]
+	path = Shopping
+	url = https://github.com/JosephLambon/Shopping.git
+[submodule "Parser"]
+	path = Parser
+	url = https://github.com/JosephLambon/Parser.git
+[submodule "Attention"]
+	path = Attention
+	url = https://github.com/JosephLambon/Attention.git
